@@ -359,6 +359,10 @@ body {
          background-color: #ed5a5a;
      }
 
+     /* quotes */
+     .quotes h3{
+        padding-left: 4em;
+     }
      footer p {
          color: #b2bac2;
          font-size: 1.15em;
