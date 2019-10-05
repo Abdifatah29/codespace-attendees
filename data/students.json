@@ -1,0 +1,70 @@
+[{
+        "name": "Abdi",
+        "inoffice": true
+    },
+    {
+        "name": "Achmat",
+        "inoffice": true
+    },
+    {
+        "name": "Asiphe",
+        "inoffice": true
+    },
+    {
+        "name": "Eugene",
+        "inoffice": true
+    },
+    {
+        "name": "Isaac",
+        "inoffice": true
+    },
+    {
+        "name": "Isaac",
+        "inoffice": false
+    },
+    {
+        "name": "Jody",
+        "inoffice": true
+    },
+    {
+        "name": "Kebogile",
+        "inoffice": true
+    },
+    {
+        "name": "Lee",
+        "inoffice": false
+    },
+    {
+        "name": "Lerato",
+        "inoffice": false
+    },
+    {
+        "name": "Lilitha",
+        "inoffice": true
+    },
+    {
+        "name": "Luke",
+        "inoffice": true
+    },
+    {
+        "name": "Olamide",
+        "inoffice": true
+    },
+    {
+        "name": "Oseluole",
+        "inoffice": true
+    },
+    {
+        "name": "Sibabalo",
+        "inoffice": true
+    },
+    {
+        "name": "Tapfuma",
+        "inoffice": true
+    },
+    {
+        "name": "Yusuf",
+        "inoffice": true
+    }
+    
+]
